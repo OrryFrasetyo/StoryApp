@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to share knowledge about IT, travel, natural scenery, and other fields? Just go to Ori Story!</string>
+    <string name="title_welcome_page">Welcome to Ori Story!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Are you ready to share your story?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="desc">Description</string>
+    <string name="description">Here is the detailed description</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="camera_x">CameraX</string>
+    <string name="gallery">Gallery</string>
+    <string name="language">Language</string>
+    <string name="tmbl_language">Language Setting Button</string>
+    <string name="tmbl_logout">Exit Button</string>
+    <string name="empty_image_warning">Insert an Image First</string>
+    <string name="appwidget_text">STORY APP BANNER</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="empty_text">-</string>
+    <string name="click_photo">Use the camera button to take a photo</string>
+    <string name="map">Peta</string>
+    <string name="tmbl_maps">Tombol Peta</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">try again</string>
+
+</resources>
